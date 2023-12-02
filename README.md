@@ -1,51 +1,51 @@
-# YT TitleGenius AI
+# YT Genius AI
 
 ## Project Description
-YT TitleGenius is your ultimate YouTube script and title generator powered by cutting-edge AI. Say goodbye to writer's block and uninspiring video titles – YT TitleGenius is here to spark creativity and boost your content game. Whether you're a seasoned creator or just starting, this tool leverages Langchain and Cohere to craft attention-grabbing titles and engaging scripts tailored to your video's topic.
+YT Genius is your ultimate YouTube script and title generator powered by cutting-edge AI. Say goodbye to writer's block and uninspiring video titles – YT Genius is here to spark creativity and boost your content game. Whether you're a seasoned creator or just starting, this tool leverages Langchain and Cohere to craft attention-grabbing titles and engaging scripts tailored to your video's topic.
 
 <!-- Overview -->
 ## Overview
-YT TitleGenius is a groundbreaking YouTube script and title generator designed to elevate your content creation process. Imagine having an AI-powered assistant that not only suggests attention-grabbing titles for your videos but also assists you in crafting compelling scripts. YT TitleGenius turns this imagination into reality, offering a seamless and efficient solution for content creators across various niches.
+YT Genius is a groundbreaking YouTube script and title generator designed to elevate your content creation process. Imagine having an AI-powered assistant that not only suggests attention-grabbing titles for your videos but also assists you in crafting compelling scripts. YT Genius turns this imagination into reality, offering a seamless and efficient solution for content creators across various niches.
 
 ### Smart Title Suggestions
-YT TitleGenius leverages advanced AI algorithms, including Langchain and Cohere, to generate intelligent and captivating titles. Say goodbye to generic titles – our tool analyzes your video's topic and audience, providing titles that are not only click-worthy but also tailored to your specific content.
+YT Genius leverages advanced AI algorithms, including Langchain and Cohere, to generate intelligent and captivating titles. Say goodbye to generic titles – our tool analyzes your video's topic and audience, providing titles that are not only click-worthy but also tailored to your specific content.
 
 ### Script Assistance
-Crafting engaging scripts can be challenging, but with YT TitleGenius, you have an AI co-creator by your side. Receive assistance in forming the structure of your video script, ensuring that your content flows smoothly and keeps viewers hooked from start to finish.
+Crafting engaging scripts can be challenging, but with YT Genius, you have an AI co-creator by your side. Receive assistance in forming the structure of your video script, ensuring that your content flows smoothly and keeps viewers hooked from start to finish.
 
 ### Topic Customization
-Every video is unique, and YT TitleGenius understands that. Tailor your titles and scripts based on your video's niche, style, and target audience. Whether you're a vlogger, educator, gamer, or entertainer, YT TitleGenius adapts to your content creation needs.
+Every video is unique, and YT Genius understands that. Tailor your titles and scripts based on your video's niche, style, and target audience. Whether you're a vlogger, educator, gamer, or entertainer, YT Genius adapts to your content creation needs.
 
 ### Boost Engagement
-The ultimate goal of any content creator is to engage the audience. YT TitleGenius not only helps you get discovered with catchy titles but also ensures that your scripts are compelling and retain viewer interest. Elevate your video content and increase engagement across your channel.
+The ultimate goal of any content creator is to engage the audience. YT Genius not only helps you get discovered with catchy titles but also ensures that your scripts are compelling and retain viewer interest. Elevate your video content and increase engagement across your channel.
 
-YT TitleGenius is more than just a title and script generator; it's your creative companion in the world of content creation. Explore the possibilities, spark creativity, and take your YouTube channel to new heights with YT TitleGenius!
+YT Genius is more than just a title and script generator; it's your creative companion in the world of content creation. Explore the possibilities, spark creativity, and take your YouTube channel to new heights with YT Genius!
 
 
 <!-- Use Cases -->
 ## Use Cases
 
-YT TitleGenius is a versatile tool designed to enhance various aspects of your YouTube content creation journey. Explore the wide range of use cases and discover how YT TitleGenius can revolutionize your video production process.
+YT Genius is a versatile tool designed to enhance various aspects of your YouTube content creation journey. Explore the wide range of use cases and discover how YT TitleGenius can revolutionize your video production process.
 
 ### Vlog Perfection
-Create attention-grabbing titles for your vlogs effortlessly. Whether you're documenting your daily life, travel adventures, or behind-the-scenes moments, YT TitleGenius suggests titles that make your vlogs stand out in the crowded YouTube landscape.
+Create attention-grabbing titles for your vlogs effortlessly. Whether you're documenting your daily life, travel adventures, or behind-the-scenes moments, YT Genius suggests titles that make your vlogs stand out in the crowded YouTube landscape.
 
 ### Educational Excellence
-For educators and tutorial creators, YT TitleGenius becomes your curriculum companion. Craft titles that resonate with your target audience and receive script assistance to ensure your lessons are delivered effectively, keeping learners engaged.
+For educators and tutorial creators, YT Genius becomes your curriculum companion. Craft titles that resonate with your target audience and receive script assistance to ensure your lessons are delivered effectively, keeping learners engaged.
 
 ### Gaming Glory
-Gamers, level up your content with YT TitleGenius. From epic gameplay series to reviews and walkthroughs, our tool provides titles that capture the essence of your gaming videos. Enhance your scripts for a seamless narration of your gaming adventures.
+Gamers, level up your content with YT Genius. From epic gameplay series to reviews and walkthroughs, our tool provides titles that capture the essence of your gaming videos. Enhance your scripts for a seamless narration of your gaming adventures.
 
 ### Entertainment Unleashed
 For entertainment channels, YT TitleGenius is your secret weapon. Generate titles that tease the excitement and mystery of your content. Craft scripts that keep viewers entertained, ensuring they hit that 'Subscribe' button for more.
 
 ### Business Brilliance
-If you're using YouTube for business or marketing, YT TitleGenius helps you create titles that drive clicks and conversions. Align your video scripts with your brand messaging, ensuring a consistent and professional representation of your business.
+If you're using YouTube for business or marketing, YT Genius helps you create titles that drive clicks and conversions. Align your video scripts with your brand messaging, ensuring a consistent and professional representation of your business.
 
 ### Creative Collaboration
-Working on collaborative projects? YT TitleGenius assists in aligning titles and scripts seamlessly, making the collaborative content creation process smoother for all contributors.
+Working on collaborative projects? YT Genius assists in aligning titles and scripts seamlessly, making the collaborative content creation process smoother for all contributors.
 
-YT TitleGenius adapts to your content creation needs, offering a helping hand across various genres and styles. Elevate your YouTube channel, captivate your audience, and unleash your creativity with YT TitleGenius!
+YT Genius adapts to your content creation needs, offering a helping hand across various genres and styles. Elevate your YouTube channel, captivate your audience, and unleash your creativity with YT Genius!
 
 
 ## Tech Stack
@@ -53,7 +53,7 @@ YT TitleGenius adapts to your content creation needs, offering a helping hand ac
 - **Streamlit**: Streamlit is the framework used for creating a user-friendly web interface for the chatbot.
 - **Generative AI**: The project incorporates generative AI techniques to generate responses based on the content of the PDFs.
 - **Python**: The project is primarily developed in Python.
-- **Cohere**: The LLM used for all of text generation is done via COhere
+- **Cohere**: The LLM used for all of text generation is done via Cohere
 
 ## Deployed Link
 [Live Demo](https://content-creator.streamlit.app/)
@@ -74,8 +74,8 @@ Ensure you have the following prerequisites installed on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/YT-TitleGenius.git
-   cd YT-TitleGenius
+   git clone https://github.com/YourUsername/YT-Genius.git
+   cd YT-Genius
 
 2. **Obtain API Keys:**
     Sign in to Cohere and visit Cohere Dashboard to obtain your API key.
