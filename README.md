@@ -91,3 +91,6 @@ Ensure you have the following prerequisites installed on your machine:
     streamlit run index.py
 
 ### Demo
+
+https://github.com/ShashankGupta10/YT-TitleGenius/assets/117008526/0fc22a0c-eb96-4f7e-8b38-998ec9c905aa
+
