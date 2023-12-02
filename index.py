@@ -3,8 +3,8 @@ from langchain.prompts import PromptTemplate
 from langchain.llms.cohere import Cohere
 from langchain.memory import ConversationBufferMemory
 import streamlit as st
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 # Title and Input Fields
 st.title("Youtube Script Generator 🦜🔗")
@@ -34,7 +34,7 @@ script_template = PromptTemplate(
 memory = ConversationBufferMemory(input_key="topic", memory_key="chat_history")
 
 # LLM Initialization
-llm = Cohere(temperature=0.9)
+llm = Cohere(temperature=0.9, cohere_api_key=st.secrets("COHERE_API_KEY"))
 
 # LLM Chains
 
