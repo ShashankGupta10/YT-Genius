@@ -8,7 +8,7 @@ import streamlit as st
 
 # Title and Input Fields
 st.title("Youtube Script Generator 🦜🔗")
-prompt_topic = st.text_input("Enter your title here")
+prompt_topic = st.text_input("Enter your topic here")
 
 
 # Prompt templates
