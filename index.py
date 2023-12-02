@@ -34,7 +34,7 @@ script_template = PromptTemplate(
 memory = ConversationBufferMemory(input_key="topic", memory_key="chat_history")
 
 # LLM Initialization
-llm = Cohere(temperature=0.9, cohere_api_key=st.secrets("COHERE_API_KEY"))
+llm = Cohere(temperature=0.9, cohere_api_key=st.secrets["COHERE_API_KEY"])
 
 # LLM Chains
 
